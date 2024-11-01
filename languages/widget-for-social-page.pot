@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Widget for Social Page\n"
+"POT-Creation-Date: 2021-11-17 11:27+0600\n"
+"PO-Revision-Date: 2021-11-17 11:27+0600\n"
+"Last-Translator: \n"
+"Language-Team: MhrTheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html;esc_attr;esc_url;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/widget-for-social-page-embed.php:5
+msgid "Widget for Facebook Page"
+msgstr ""
+
+#: includes/widget-for-social-page-embed.php:6
+msgid "This is a facebook page widget."
+msgstr ""
+
+#: includes/widget-for-social-page-embed.php:22
+msgid "360"
+msgstr ""
+
+#: includes/widget-for-social-page-embed.php:22
+msgid "500"
+msgstr ""
+
+#: includes/widget-for-social-page-embed.php:44
+msgid "Title:"
+msgstr ""
+
+#: includes/widget-for-social-page-embed.php:52
+msgid "Facebook Page Link:"
+msgstr ""
+
+#: includes/widget-for-social-page-embed.php:60
+msgid "Height:"
+msgstr ""
+
+#: includes/widget-for-social-page-embed.php:68
+msgid "Width:"
+msgstr ""
